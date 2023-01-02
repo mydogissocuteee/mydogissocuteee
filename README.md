@@ -1,5 +1,5 @@
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcom&fontSize=90&fontColor=141A72&fontAlignY=39&desc=Danny's%20Github%20Profile&descAlignY=57&descAlign=57.5" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcom&fontSize=90&fontColor=141A72&fontAlignY=39&desc=Seoyeon's%20Github%20Profile&descAlignY=57&descAlign=57.5" />
 
 # ![2412312324479](https://user-images.githubusercontent.com/101934636/209293471-06cafc29-418a-40c3-b2e2-3e70781e368b.png)I'm
 
