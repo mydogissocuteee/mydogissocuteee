@@ -34,11 +34,13 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 # Projects
- 
+- 애견인들을 위한 애견사료 영양성분 정보
 https://github.com/2022-SMHRD-KDT-BigData-3/HealthyDog
 
+- CCTV를 이용한 헬스장 내 위험 감지
 https://github.com/2022-SMHRD-KDT-BigData-3/CATSEYE
 
+- MES 생산관리시스템
 https://github.com/mydogissocuteee/uni
 
 # Blog
