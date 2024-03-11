@@ -33,6 +33,7 @@
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255.svg?&style=for-the-badge&logo=Eclipse&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ%20IDEAE-000000?style=flat&logo=EclipseIDE&logoColor=white)
 
 # Projects
 - 애견인들을 위한 애견사료 영양성분 정보
